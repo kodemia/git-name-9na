@@ -1,7 +1,5 @@
 # NAMES
-
 1. devcharles
 2. gommorin
-
-
-5. gommorin
+3. DevHaro
+4. gommorin
