@@ -1,8 +1,10 @@
 # NAMES
 
 1. devcharles
-<<<<<<< HEAD
-10.marco357
-=======
 2. gommorin
->>>>>>> master
+3. DevHaro
+4. m8a98
+5. aaronbarcenas
+6. Ivan
+7. Mauricio1489
+8.marco357
