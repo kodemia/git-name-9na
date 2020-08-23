@@ -14,6 +14,11 @@
 3. DevHaro
 <<<<<<< HEAD
 4. m8a98
+<<<<<<< HEAD
 >>>>>>> master
 5. Mauricio1489
+=======
+5. aaronbarcenas
+>>>>>>> master
 
+6. Mauricio1489
